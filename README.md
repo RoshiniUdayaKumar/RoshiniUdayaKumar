@@ -5,7 +5,7 @@
 - 📚 I’m looking to collaborate on projects related to Digital Design.
 - 📫 How to reach me: roshiniuday@gmail.com
 - ⚡ Fond of Painting, food, and graphic design.
--  
+  
 ## My Tech Stack:
 
 ![C++](https://img.shields.io/badge/C%2B%2B%20-%200000ff?style=for-the-badge)
