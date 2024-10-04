@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning to verify standard protocols using SystemVerilog and Universal Verification Methodology(UVM). 
 - 📚 I’m looking to collaborate on projects related to Digital Design.
 - 📫 How to reach me: roshiniuday@gmail.com
-- ⚡ Fond of Painting, food, and graphic design.
+- ⚡ Fond of Painting, and graphic design.
   
 ## My Tech Stack:
 
