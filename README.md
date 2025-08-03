@@ -1,4 +1,4 @@
-<h2 align="center">👋 Hi, I’m Roshini Udaya</h2> 
+<h1 align="center">👋 Hi, I’m Roshini Udaya</h1> 
 <p align="center">
 <img src="https://media3.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3d3htOGliZWcyZTN1ZnBtcWhlbnh3eXBhdTVqMDNqNHN1dXZuM3FtOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/6ib6KPmkeAjDTxMxij/giphy.webp" width="180"/>
 </p>
@@ -9,7 +9,7 @@
 - 📫 How to reach me: roshiniuday@gmail.com
 - ⚡ Fond of Painting, and graphic design.
   
-## My Tech Stack:
+<h2>My Tech Stack:</h2>
 
 ![Verilog](https://img.shields.io/badge/Verilog%20-%20%23F7DF1E?style=for-the-badge)
 ![SystemVerilog](https://img.shields.io/badge/SystemVerilog%20-%20%234285F4?style=for-the-badge)
