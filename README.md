@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Roshini Udaya
 
-![coding]https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTI3b2toZ2Q0Ym0zamRkZGZleDZ5NmZhNHV3dGp3cDZyNjVtM21sOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6ib6KPmkeAjDTxMxij/giphy.gif
+![coding](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTI3b2toZ2Q0Ym0zamRkZGZleDZ5NmZhNHV3dGp3cDZyNjVtM21sOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6ib6KPmkeAjDTxMxij/giphy.gif)
 
 - 👀 I’m interested in exploring CPU architecture/ technologies and trying to implement them using RTL.
 - 🌱 I’m currently learning to verify standard protocols using SystemVerilog and Universal Verification Methodology(UVM). 
