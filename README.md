@@ -16,6 +16,9 @@
 ![UVM](https://img.shields.io/badge/UVM%20-%20%23232F3E?style=for-the-badge)
 ![C++](https://img.shields.io/badge/C%2B%2B%20-%200000ff?style=for-the-badge)
 
+![Roshini's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RoshiniUdayaKumar&show_icons=true&theme=radical)
+
+
 <!---
 RoshiniUdayaKumar/RoshiniUdayaKumar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
