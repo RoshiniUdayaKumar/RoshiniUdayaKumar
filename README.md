@@ -1,4 +1,5 @@
 ## 👋 Hi, I’m Roshini Udaya
+![coding]https://media3.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dHljY2RtMHR0ZmwydDc5a2RqcW9kZDFoMWM1cnFjNndjeDNlaTNxaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/6ib6KPmkeAjDTxMxij/giphy.webp
 
 - 👀 I’m interested in exploring CPU architecture/ technologies and trying to implement them using RTL.
 - 🌱 I’m currently learning to verify standard protocols using SystemVerilog and Universal Verification Methodology(UVM). 
