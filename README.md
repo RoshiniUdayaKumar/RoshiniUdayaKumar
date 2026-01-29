@@ -22,3 +22,15 @@
 ![PetaLinux](https://img.shields.io/badge/PetaLinux-%23EE0000?style=for-the-badge)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-%23E95420?style=for-the-badge)
 
+## Platforms
+
+![Zynq](https://img.shields.io/badge/Zynq-%23007396?style=for-the-badge)
+![Zynq%20UltraScale+](https://img.shields.io/badge/Zynq%20UltraScale+%20MPSoC-%23007396?style=for-the-badge)
+
+- **Zynq UltraScale**
+  - Zynq 7000
+  - Zynq ZCU7020  
+
+- **Zynq UltraScale+ MPSoC**
+  - AMD Kria KD240
+  - AMD Kria K24 SoM
