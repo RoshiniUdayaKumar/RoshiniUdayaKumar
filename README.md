@@ -16,7 +16,9 @@
 ![UVM](https://img.shields.io/badge/UVM%20-%20%23232F3E?style=for-the-badge)
 ![C++](https://img.shields.io/badge/C%2B%2B%20-%200000ff?style=for-the-badge)
 
-<!---
-RoshiniUdayaKumar/RoshiniUdayaKumar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Tools
+
+![Xilinx Vivado](https://img.shields.io/badge/Xilinx%20Vivado-%23E01F27?style=for-the-badge)
+![PetaLinux](https://img.shields.io/badge/PetaLinux-%23EE0000?style=for-the-badge)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-%23E95420?style=for-the-badge)
+
