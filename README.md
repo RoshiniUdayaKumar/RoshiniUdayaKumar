@@ -9,28 +9,25 @@
 - 📫 How to reach me: roshiniuday@gmail.com
 - ⚡ Fond of Painting and graphic design.
   
-<h2> Tech Stack:</h2>
+## Tech Stack
 
-![Verilog](https://img.shields.io/badge/Verilog%20-%20%23F7DF1E?style=for-the-badge)
-![SystemVerilog](https://img.shields.io/badge/SystemVerilog%20-%20%234285F4?style=for-the-badge)
-![UVM](https://img.shields.io/badge/UVM%20-%20%23232F3E?style=for-the-badge)
-![C++](https://img.shields.io/badge/C%2B%2B%20-%200000ff?style=for-the-badge)
+![C++](https://img.shields.io/badge/C%2B%2B-%230B3C91?style=for-the-badge)
+![UVM](https://img.shields.io/badge/UVM-%231E5AA8?style=for-the-badge)
+![SystemVerilog](https://img.shields.io/badge/SystemVerilog-%234A7BD0?style=for-the-badge)
+![Verilog](https://img.shields.io/badge/Verilog-%238FB7FF?style=for-the-badge)
+
 
 ## Tools
 
-![Xilinx Vivado](https://img.shields.io/badge/Xilinx%20Vivado-%23E01F27?style=for-the-badge)
-![PetaLinux](https://img.shields.io/badge/PetaLinux-%23EE0000?style=for-the-badge)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-%23E95420?style=for-the-badge)
+![Xilinx Vivado](https://img.shields.io/badge/Xilinx%20Vivado-%231B5E20?style=for-the-badge)
+![PetaLinux](https://img.shields.io/badge/PetaLinux-%232E7D32?style=for-the-badge)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-%2381C784?style=for-the-badge)
+
 
 ## Platforms
 
-![Zynq](https://img.shields.io/badge/Zynq-%23007396?style=for-the-badge)
-![Zynq%20UltraScale+](https://img.shields.io/badge/Zynq%20UltraScale+%20MPSoC-%23007396?style=for-the-badge)
+![Zynq UltraScale+ MPSoC](https://img.shields.io/badge/Zynq%20UltraScale+%20MPSoC-%238B0000?style=for-the-badge)
+![AMD Kria KD240](https://img.shields.io/badge/AMD%20Kria%20KD240-%23B71C1C?style=for-the-badge)
+![AMD Kria K24 SoM](https://img.shields.io/badge/AMD%20Kria%20K24%20SoM-%23E53935?style=for-the-badge)
+![Zynq 7000 / ZCU7020](https://img.shields.io/badge/Zynq%207000%20%7C%20ZCU7020-%23FF8A80?style=for-the-badge)
 
-- **Zynq UltraScale**
-  - Zynq 7000
-  - Zynq ZCU7020  
-
-- **Zynq UltraScale+ MPSoC**
-  - AMD Kria KD240
-  - AMD Kria K24 SoM
