@@ -15,17 +15,9 @@
 ![UVM](https://img.shields.io/badge/UVM-%231E5AA8?style=for-the-badge)
 ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-%234A7BD0?style=for-the-badge)
 ![C++](https://img.shields.io/badge/Verilog-%238FB7FF?style=for-the-badge)
-
-
-## Tools
-
 ![Xilinx Vivado](https://img.shields.io/badge/Xilinx%20Vivado-%231B5E20?style=for-the-badge)
 ![PetaLinux](https://img.shields.io/badge/PetaLinux-%232E7D32?style=for-the-badge)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-%2381C784?style=for-the-badge)
-
-
-## Platforms
-
 ![Zynq UltraScale+ MPSoC](https://img.shields.io/badge/Zynq%20UltraScale+%20MPSoC-%238B0000?style=for-the-badge)
 ![AMD Kria KD240](https://img.shields.io/badge/AMD%20Kria%20KD240-%23B71C1C?style=for-the-badge)
 ![AMD Kria K24 SoM](https://img.shields.io/badge/AMD%20Kria%20K24%20SoM-%23E53935?style=for-the-badge)
