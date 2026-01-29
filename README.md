@@ -11,10 +11,10 @@
   
 ## Tech Stack
 
-![C++](https://img.shields.io/badge/C%2B%2B-%230B3C91?style=for-the-badge)
+![Verilog](https://img.shields.io/badge/C%2B%2B-%230B3C91?style=for-the-badge)
 ![UVM](https://img.shields.io/badge/UVM-%231E5AA8?style=for-the-badge)
 ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-%234A7BD0?style=for-the-badge)
-![Verilog](https://img.shields.io/badge/Verilog-%238FB7FF?style=for-the-badge)
+![C++](https://img.shields.io/badge/Verilog-%238FB7FF?style=for-the-badge)
 
 
 ## Tools
